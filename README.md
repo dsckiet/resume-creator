@@ -1,5 +1,5 @@
 <img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
-	<h2 align="left"> Resume Creator using Templates - CSEDSE0S1</h2>
+<h2 align="left"> Resume Creator using Templates - CSEDSE0S1</h2>
 <h4 align="left"> Let's build modern resumes just by entering essential information about yourself.</h4>
 
 ---
